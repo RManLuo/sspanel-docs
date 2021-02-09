@@ -6,8 +6,7 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 
 以下是各平台该应用的下载地址。
 
-- Android：[V2rayNG](https://github.com/2dust/v2rayNG/releases)
-- ...
+- Android：[https://www.sstank.tk/ssr-download/v2rayng.apk](https://www.sstank.tk/ssr-download/v2rayng.apk)
 
 ## 获取订阅
 
@@ -15,6 +14,9 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 
 [cinwell website](/sublink?type=v2ray ':include :type=markdown')
 
+您也可以在[主页用户中心](https://www.sstank.ml/user)处，点击如下链接复制订阅地址。
+
+![image-20210128202142365](https://i.loli.net/2021/01/28/T7tvMgacw1U9fbX.png)
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
 ## 配置 V2rayNG
@@ -25,7 +27,7 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 
 点击右上角的加号按钮，在新页面的备注中填写本站名称，地址输入框中粘贴上方 **[获取订阅](#获取订阅)** 中的订阅链接并点击右上角的 **√**。
 
-![2](https://i.loli.net/2019/02/13/5c62fef253cd4.jpg ':size=200')
+![2](V2RayNG.assets/TvpJQDdAFwV4WrU.png ':size=200')
 
 再次从侧边栏进入 **设置** 页面，点击 **路由模式** 将其更改为 **绕过局域网及大陆地址**。
 
@@ -41,3 +43,4 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 
 如操作系统提示添加 VPN 配置，请点击 运行 并验证您的 密码、指纹等。
 
+![1570090966587](https://i.loli.net/2021/01/28/8JDMvip7VtH2GY6.png)
