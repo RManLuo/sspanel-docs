@@ -27,7 +27,7 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 
 点击右上角的加号按钮，在新页面的备注中填写本站名称，地址输入框中粘贴上方 **[获取订阅](#获取订阅)** 中的订阅链接并点击右上角的 **√**。
 
-![2](V2RayNG.assets/TvpJQDdAFwV4WrU.png ':size=200')
+![2](https://i.loli.net/2021/02/10/SbujL1rKCmskzl9.png ':size=200')
 
 再次从侧边栏进入 **设置** 页面，点击 **路由模式** 将其更改为 **绕过局域网及大陆地址**。
 
